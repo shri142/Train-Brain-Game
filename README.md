@@ -24,3 +24,13 @@ The game is played on an 8×8 chessboard with two players. Each player starts wi
 
 <img align="middle" alt="chess" width="650px" src="Train Brain1.jpg" />
 
+
+# How to Play:
+
+* The pieces can be moved by dragging them to the desired square.
+* Movements of Knights and Bishops have been changed. Knights move 2 squares diagonally and one square horizontally, they can jump over pieces. Whereas bishops move diagonally until 4 squares and can’t jump over pieces.
+* The pieces have been randomly shuffled on each player's back rank.
+* For castling, the King and Rook may not have moved from their starting squares. All spaces between the king and rook must be empty. The King can castle anytime though in one direction.
+* The pawns can be promoted to queen only.
+* There are no checks nor there is a checkmate.
+
