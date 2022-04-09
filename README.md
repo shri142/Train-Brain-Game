@@ -10,6 +10,7 @@ The game is played on an 8×8 chessboard with two players. Each player starts wi
 
 <img align="middle" alt="chess" width="650px" src="Train Brain2.jpg" />
 
+
 # Train Brain game Features:
 
 * This game is free for all ages, adults, boys, girls, etc..! Absolutely Free…No hidden charges.
@@ -18,4 +19,8 @@ The game is played on an 8×8 chessboard with two players. Each player starts wi
 * Immediately boost your mantle performance, memory, accuracy, and problem-solving skills.
 * Keeps your brain young and improves the Short-term as well as Long-term Memory of all ages.
 * With the change in movements of a few pieces the game becomes more fun but still competitive.
+
+
+
+<img align="middle" alt="chess" width="650px" src="Train Brain1.jpg" />
 
