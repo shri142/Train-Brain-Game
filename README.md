@@ -43,13 +43,13 @@ The game is played on an 8×8 chessboard with two players. Each player starts wi
 <br />
 
 
-<img align="middle" alt="chess" width="650px" src="TrainBrain4.jpg" />
+<img align="middle" alt="chess" width="650px" src="TrainBrain4.png" />
 
 <br />
 
 # Game link(Play store)
 
-<a href="https://play.google.com/store/apps/details?id=com.Teknack.TrainBrain" </a>
+"https://play.google.com/store/apps/details?id=com.Teknack.TrainBrain"
 
 
 
