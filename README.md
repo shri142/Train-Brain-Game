@@ -1,5 +1,5 @@
 # Train-Brain-Game
 Chess similar app with new features
 
-<img align="middle" alt="shrikrishna umbare | Linkedin" width="300px" src="Train Brain1.jpg" />
+<img align="middle" alt="chess" width="300px" src="\ReadmeImages\Train Brain1.jpg" />
 
