@@ -11,7 +11,7 @@ The game is played on an 8×8 chessboard with two players. Each player starts wi
 
 
 
-<img align="middle" alt="chess" width="650px" src="Train Brain2.jpg" />
+<img align="middle" alt="chess" width="650px" src="TrainBrain2.jpg" />
 
 <br />
 
@@ -27,7 +27,7 @@ The game is played on an 8×8 chessboard with two players. Each player starts wi
 
 
 
-<img align="middle" alt="chess" width="650px" src="Train Brain1.jpg" />
+<img align="middle" alt="chess" width="650px" src="TrainBrain1.jpg" />
 
 <br />
 
